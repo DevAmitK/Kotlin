@@ -6,7 +6,7 @@ package Kotlin_Basics_Syntax
  */
 
 fun main() {
-    println("Hello, Kotlin!")
+    //TODO CODE
 }
 
 /**
