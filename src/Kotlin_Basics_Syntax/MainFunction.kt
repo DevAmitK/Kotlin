@@ -9,7 +9,6 @@ fun main() {
     println("Hello, Kotlin!")
 }
 
-
 /**
  * fun: Indicates the declaration of a function.
  *
